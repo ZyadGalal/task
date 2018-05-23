@@ -1,0 +1,28 @@
+PODS:
+  - AGNavigationBarShape (0.3.3)
+  - Alamofire (4.7.2)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - AGNavigationBarShape
+  - Alamofire
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AGNavigationBarShape
+    - Alamofire
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AGNavigationBarShape: 01779b78ff9f644a993582446b8e42a3bddab0d4
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 13507f4cc639a5904705a9173aed66e1ed26378a
+
+COCOAPODS: 1.5.0
